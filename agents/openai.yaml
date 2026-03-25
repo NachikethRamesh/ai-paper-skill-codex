@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Paper Skill"
+  short_description: "Turn AI papers into interactive lessons for nontechnical readers"
+  default_prompt: "Use $ai-paper-skill to convert this AI research PDF into a single-page interactive HTML lesson."
