@@ -2,6 +2,8 @@
 
 Codex skill for turning AI/ML research papers into interactive, non-technical, single-page HTML lessons.
 
+For Claude Code ai-paper-skill, check out: https://github.com/NachikethRamesh/ai-paper-skill
+
 `SKILL.md` is the source of truth. This README is a quick overview for humans.
 
 ## What This Skill Produces
@@ -14,6 +16,12 @@ A self-contained HTML lesson that:
 - visualizes pipelines, architecture, comparisons, and results
 - embeds quizzes that test understanding, not memorization
 - defines technical terms with glossary tooltips
+
+Screenshots of some outputs - 
+
+<img width="2878" height="1469" alt="image" src="https://github.com/user-attachments/assets/db1e8cf9-8fb0-4829-b9f9-4c492ec593d0" />
+<img width="2879" height="1376" alt="image" src="https://github.com/user-attachments/assets/d752e489-d31d-4066-83b3-e9d728026ab3" />
+<img width="2879" height="1471" alt="image" src="https://github.com/user-attachments/assets/d52d1730-56de-4b98-8dd7-e57a290cf21f" />
 
 ## Target Audience
 
